@@ -26,8 +26,8 @@
                     <a data-bs-toggle="tooltip" data-bs-placement="top" title="Collapse" id="collapse-header"><i class="ti ti-chevron-up"></i></a>
                 </li>
             </ul>
-            
-        </div> 
+
+        </div>
 
         <div class="card">
             <div class="card-body">
