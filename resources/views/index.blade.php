@@ -20,7 +20,7 @@
              
                 <h2 class="mb-1">
                 <img src="{{URL::asset('build/img/icons/hand01.svg')}}" class="hand-img" alt="img">
-                    {{ $greeting }} <span class="text-primary fw-bold"> Directorate of Artificial Intelligence, Automation and Research</span>
+                    {{ $greeting }} <span class="text-primary fw-bold"> Fleet Management Portal</span>
                  </h2>
                 <p>Its nice  to see you <span class="text-primary fw-bold">Today</span></p>
             </div>
